@@ -5,7 +5,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-import text_utils as txt
+import text_utils
 
 reverse_string("xoxp")
 capitalize_string("soap")
