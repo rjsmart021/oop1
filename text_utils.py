@@ -3,6 +3,6 @@
         print(x)
 
     def capitalize_string(s):
-        x = input("Input a string of words")
-        return x.upper(x)
+        s = input("Input a string of words")
+        return s.upper(s)
        
